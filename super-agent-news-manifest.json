@@ -1,0 +1,32 @@
+{
+  "citations": [
+    "[forbes.com](https://www.forbes.com)",
+    "[blog.google](https://blog.google)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com)",
+    "[memeburn.com](https://memeburn.com)",
+    "[bwbusinessworld.com](https://www.bwbusinessworld.com)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com)",
+    "[economictimes.indiatimes.com](https://economictimes.indiatimes.com)",
+    "[wsj.com](https://www.wsj.com)",
+    "[time.com](https://time.com)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=1120px centered, 2\u20133 lines; AIDA=Attention(hero),Interest(context),Desire(compare+cache),Action(CTA); density_check=compare-grid uses grid-auto-flow:dense; label_sweep=all competitors mentioned; contrast_check=black pills on paper, white secondary; animations guarded; cache_phrase_check=explicit",
+  "generated_at": "2026-06-29T20:20:32.714120+00:00",
+  "headline": "Super vs Folk",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair, design-forward comparison of Super and Folk for people choosing a personal AI agent. Folk is positioned as a general AI assistant brand in a fast-growing agents market, while Super is presented as the sharper choice for repeated computer-use workflows thanks to its ability to operate computers end\u2011to\u2011end and reuse a computer-use cache. The page places Folk in context alongside Orchids, Siri, ChatGPT, Gemini, and Grok, and grounds claims in recent reporting on the rise of personal AI agents and computer-controlling models."
+}
